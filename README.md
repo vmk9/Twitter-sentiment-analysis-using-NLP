@@ -46,7 +46,8 @@ Possible applications for this project include:
    
 ## 5. Topic modelling:
   <img width="541" alt="image" src="https://github.com/vmk9/Twitter-sentiment-analysis-using-NLP/assets/106167638/812a9299-c919-4550-8005-1403678ff695">
-  ![image](https://github.com/vmk9/Twitter-sentiment-analysis-using-NLP/assets/106167638/bfc15788-a5bf-4f3b-af16-78858ca38b79)
+  
+   ![image](https://github.com/vmk9/Twitter-sentiment-analysis-using-NLP/assets/106167638/bfc15788-a5bf-4f3b-af16-78858ca38b79)
 
 
 ## Contributers
